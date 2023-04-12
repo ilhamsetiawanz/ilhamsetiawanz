@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, Im La Ode Muhammad Ilham Setiawan
+I am a computer science student at Halu Oleo University. I am currently focusing on learning Front-End Web Development💻. If you are curious about my project, you can check my repository.
 
 <!--
 **ilhamsetiawanz/ilhamsetiawanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
