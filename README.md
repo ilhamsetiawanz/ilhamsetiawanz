@@ -1,3 +1,7 @@
+<img align="left" height="100" src="https://i.ibb.co/BCJkxzP/download20230605115622.png"  />
+
+###
+
 <h1 align="center">Hallo, I'm Ilham Setiawan👋🏼</h1>
 
 ###
@@ -13,22 +17,46 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/ilhamsetiawanz/ilhamsetiawanz/output/snake.svg" alt="Snake animation" />
+
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" width="45" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" width="45" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" width="45" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" width="45" alt="bootstrap logo"  />
+  <a href="https://www.linkedin.com/in/la-ode-muhammad-ilham-setiawan-6b1872262/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="ILHAAAAAM#6928" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://youtube.com/@CodeCampus-Project" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://instagram.com/_ilameeeeee_?igshid=ZDc4ODBmNjlmNQ==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100010475912592" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="telegram logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="25" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=ts" height="25" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=html" height="25" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=css" height="25" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="25" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="25" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="25" alt="nodejs logo"  />
 </div>
 
 ###
