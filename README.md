@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am a computer science student at Halu Oleo University. I am currently focusing on learning Front-End Web Development💻. If you are curious about my project, you can check my repository.</p>
+<p align="left"> I'm here to make money, not friends</p>
 
 ###
 
