@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"> I'm here to make money, not friends</p>
+<p align="left">I'm a Computer Science graduate with expertise in MERN Stack development. My journey in technology is driven by a passion for continuous learning and professional growth. I am committed to delivering innovative solutions and contributing to impactful projects in the tech industry.</p>
 
 ###
 
@@ -58,5 +58,3 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="25" alt="nodejs logo"  />
 </div>
-
-###
